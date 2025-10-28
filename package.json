@@ -1,0 +1,18 @@
+{
+  "name": "htmll-css-landing-page",
+  "version": "1.0.0",
+  "description": "Projeto prático de programação em HTML e CSS.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "lint:check": "prettier --check",
+    "lint:fix": "prettier --fix"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
